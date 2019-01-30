@@ -12,7 +12,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private String TAG = "MainActivity";
-    String payeeAddress = "8s18989765@upi";
+    String payeeAddress = "8518989765@upi";
     String payeeName = "sudhir kumar singh";
     String transactionNote = "Test for Deeplinking";
     String amount = "1";
